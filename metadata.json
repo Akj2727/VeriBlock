@@ -1,0 +1,5 @@
+{
+  "name": "Blockchain CertVerify",
+  "description": "A decentralized application for issuing and verifying immutable digital certificates on the Ethereum blockchain, featuring AI-powered credential insights.",
+  "requestFramePermissions": []
+}
